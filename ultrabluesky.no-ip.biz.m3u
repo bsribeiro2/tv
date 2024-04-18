@@ -1,6 +1,10 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/afrTIGi.jpg" group-title="Music", ultrabluesky
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Baraza Music
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Canais|Espanhol", Univision
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Canais|Espanhol", Telemundo Internacional

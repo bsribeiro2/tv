@@ -1,0 +1,21 @@
+#EXTM3U
+********MUSIC*******
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/wp/afrTIGi.jpg" group-title="Music",ultrabluesky
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+********Canais em Espanhol*******
+#EXTINF:-1 tvg-logo="" group-title="Canais|Espanhol",Univision
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais|Espanhol",Telemundo Internacional
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais|Espanhol",Culinaria 1
+http://stream.flynetwifi.com:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais|Espanhol",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+
+
+
+

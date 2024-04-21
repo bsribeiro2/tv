@@ -160,7 +160,7 @@ https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="RÁDIO NA TV",RÁDIO DIFUSORA FM (PATROCINIO/MG)
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
 
-#EXTINF:-1,tvg-id="13" tvg-name="" tvg-logo="https://www.diariofmmacapa.com.br/wp-content/themes/diariofm/images/logo.png" group-title="RÁDIO NA TV",RÁDIO DIÁRIO FM 90.9
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.diariofmmacapa.com.br/wp-content/themes/diariofm/images/logo.png" group-title="RÁDIO NA TV",RÁDIO DIÁRIO FM 90.9
 https://5a57bda70564a.streamlock.net/diariomacapa/diariomacapa.stream/chunklist_w1888791503.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CbYZvDh.png" group-title="RÁDIO NA TV",RÁDIO DIAMANTINA FM

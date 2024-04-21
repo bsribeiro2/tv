@@ -78,8 +78,14 @@ RÁDIO VOZ MISSIONÁRIA****************************************https://www.radio
                                                                                       RADIOS
 #############################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIOS MANAUS",Mix FM Manaus 100.7
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIOS MANAUS",Mix FM 100.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC.aac?1713705250445
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio172922_1611939698.png" group-title="RÁDIOS MANAUS",Jovem PAN 104.1
+https://shout25.crossradio.com.br:18022/stream?1713707464889
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio172922_1611939698.png" group-title="RÁDIOS MANAUS",Rádio Encontro Das Águas 97.7 FM
+https://stream2.cbnamazonia.com.br/cbn-mao?1713706636200
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="RÁDIO NA TV",RÁDIO 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8

@@ -1,6 +1,7 @@
 #############################################################################################################################################################################
                                                                                       FONTE
 #############################################################################################################################################################################
+RÁDIOS*******************************************************https://www.radios.com.br/
 RÁDIO 538****************************************************
 RÁDIO 106 SERTANEJA******************************************https://www.106sertaneja.com.br/#google_vignette
 RÁDIO 102,7 FM***********************************************https://radio102ap.com.br/estudio-102/
@@ -77,11 +78,8 @@ RÁDIO VOZ MISSIONÁRIA****************************************https://www.radio
                                                                                       RADIOS
 #############################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIOS MANAUS",Mix FM Manaus 100.7 V2
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIOS MANAUS",Mix FM Manaus 100.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC.aac?1713705250445
-
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIO NA TV ",Mix FM Manaus 100.7
-https://26523.live.streamtheworld.com/MIXFM_MANAUSAAC.aac?dist=mix-web-player-radio-ao-vivo&202408.55220622357
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="RÁDIO NA TV",RÁDIO 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8

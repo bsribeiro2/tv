@@ -78,8 +78,7 @@ RÁDIO VOZ MISSIONÁRIA****************************************https://www.radio
                                                                                       RADIOS
 #############################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/2422/fbplayer/c68271a9793011ecdcdde38387e22534.jpg
-" group-title="RÁDIOS MANAUS",Atividade FM 87.9
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/2422/fbplayer/c68271a9793011ecdcdde38387e22534.jpg" group-title="RÁDIOS MANAUS",Atividade FM 87.9
 https://servidor38-1.brlogic.com:8070/live?source=website
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio27798_1597750881.jpg" group-title="RÁDIOS MANAUS",Mix FM 100.7
